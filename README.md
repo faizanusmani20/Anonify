@@ -33,3 +33,15 @@
 ```bash
 git clone https://github.com/YOUR_USERNAME/anonify.git
 cd anonify
+
+🧑‍💻 Author
+Made with ❤️ by Mohd Faizan Usmani
+GitHub
+
+📄 License
+This project is licensed under the MIT License — feel free to use, remix, and share!
+
+🙌 Support
+⭐️ Star this repo to show your support!
+🐞 Found a bug? Open an issue or submit a PR.
+
