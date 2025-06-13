@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 Author
 Made with ❤️ by Mohd Faizan Usmani
-GitHub https://github.com/faizanusmani20
+- [GitHub](https://github.com/faizanusmani20)
 
 ## 📄 License
 This project is licensed under the MIT License — feel free to use, remix, and share!
