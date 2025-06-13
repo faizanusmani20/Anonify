@@ -30,7 +30,7 @@
 ## 📥 How to Use?
 
 TO use my project plase go to my link 
-- [Anonify](https://kamuszone.web.app/)
+- [Anonify Chat](https://kamuszone.web.app/)
 
 ---
 
