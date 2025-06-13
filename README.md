@@ -1,4 +1,4 @@
-# 💬 Anonify
+# 💬 Anonify Chat
 
 **Anonify** is a sleek, real-time web chat app built with **Firebase**. Chat anonymously, switch between light/dark themes, receive push notifications, and clear chats easily — all in a modern, minimal interface.
 
