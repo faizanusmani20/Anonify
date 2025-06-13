@@ -29,14 +29,14 @@
 
 ## 🧑‍💻 Author
 Made with ❤️ by Mohd Faizan Usmani
-GitHub
+GitHub https://github.com/faizanusmani20
 
 ## 📄 License
 This project is licensed under the MIT License — feel free to use, remix, and share!
 
 ---
 
-🙌 Support
+## 🙌 Support
 ⭐️ Star this repo to show your support!
 🐞 Found a bug? Open an issue or submit a PR.
 
