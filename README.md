@@ -29,7 +29,7 @@
 
 ## 📥 How to Use?
 
-TO use my project plase go to my link 
+TO use my project please go to my link 
 - [Anonify Chat](https://kamuszone.web.app/)
 
 ---
