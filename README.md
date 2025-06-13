@@ -26,6 +26,13 @@
 
 ---
 
+## 📥 How to Use?
+
+TO use my project plase go to my link 
+- [Anonify](https://kamuszone.web.app/))
+
+---
+
 ## 🧑‍💻 Author
 Made with ❤️ by Mohd Faizan Usmani
 - [GitHub](https://github.com/faizanusmani20)
@@ -39,15 +46,6 @@ This project is licensed under the MIT License — feel free to use, remix, and 
 ⭐️ Star this repo to show your support!  
 🐞 Found a bug? Open an issue or submit a PR.
  
-
----
-
-## ⚙️ Setup
-
-1️⃣ **Clone this repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/anonify.git
-cd anonify
 
 
 
