@@ -27,11 +27,11 @@
 
 ---
 
-🧑‍💻 Author
+##🧑‍💻 Author
 Made with ❤️ by Mohd Faizan Usmani
 GitHub
 
-📄 License
+##📄 License
 This project is licensed under the MIT License — feel free to use, remix, and share!
 
 ---
