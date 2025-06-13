@@ -37,8 +37,8 @@ This project is licensed under the MIT License — feel free to use, remix, and 
 ---
 
 ## 🙌 Support
-⭐️ Star this repo to show your support!
-🐞 Found a bug? Open an issue or submit a PR.
+⭐️ **Star this repo to show your support!
+🐞 **Found a bug? Open an issue or submit a PR.
 
 ---
 
