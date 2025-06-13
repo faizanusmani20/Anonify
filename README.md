@@ -2,7 +2,7 @@
 
 **Anonify** is a sleek, real-time web chat app built with **Firebase**. Chat anonymously, switch between light/dark themes, receive push notifications, and clear chats easily — all in a modern, minimal interface.
 
-![Anonify Banner](https://via.placeholder.com/1000x250.png?text=Anonify+Chat+App) <!-- Replace with your own banner if you have one -->
+![Anonify Banner](asses/anonifylogo.png) 
 
 ---
 
