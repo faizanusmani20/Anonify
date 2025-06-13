@@ -21,7 +21,7 @@
 
 | Login Screen | Chat Screen | Dark Mode |
 |--------------|--------------|-----------|
-| ![Login](https://via.placeholder.com/300x600?text=Login+Screen) | ![Chat](https://via.placeholder.com/300x600?text=Chat+Screen) | ![Dark Mode](https://via.placeholder.com/300x600?text=Dark+Mode) |
+| ![Login](login.png) | ![Chat](https://via.placeholder.com/300x600?text=Chat+Screen) | ![Dark Mode](https://via.placeholder.com/300x600?text=Dark+Mode) |
 
 
 ---
